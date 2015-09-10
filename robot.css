@@ -1,0 +1,10 @@
+#robotForm {
+	position: absolute;
+	border: solid black 1px;
+	background-color: white;
+	width: 400px;
+	height: 50px;
+	right: 10px;
+	top: 10px;
+	padding: 5px;
+}
